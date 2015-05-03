@@ -3,3 +3,4 @@ test
 <<<<< >>>>>
 Testni readme file ovdje
 <<<<< >>>>>
+New text
